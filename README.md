@@ -14,3 +14,12 @@
 
 Accuracy, Precision, Recall, F1
 
+**Итог работы:**
+
+![image](https://github.com/IT-DS-Alex/Pet-project/assets/140064630/77de1d3e-8f6d-479b-b590-397b0eefed89)
+
+![image](https://github.com/IT-DS-Alex/Pet-project/assets/140064630/a974b803-e1de-42c6-b6f6-a380ae0d6a91)
+
+![image](https://github.com/IT-DS-Alex/Pet-project/assets/140064630/2cd407ed-cebd-4a50-8f9f-eca1e166922d)
+
+
