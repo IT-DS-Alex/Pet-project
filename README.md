@@ -8,8 +8,9 @@
 
 Имя архива соответствует музыкальному жанру (10 папок).
 
+![image](https://github.com/IT-DS-Alex/Pet-project/assets/140064630/f9f51f39-ad84-45f7-bb8f-adb95a66117b)
+
 **Метрики:**
 
 Accuracy, Precision, Recall, F1
-
 
