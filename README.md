@@ -1,1 +1,15 @@
-# Pet-project
+# Описание проекта
+## Цель:
+Необходимо разработать модель, которая определит жанр музыкального альбома по изображению его обложки.
+
+### Описание данных
+
+Изображения в формате PNG (7800 изображений), упакованные в zip-архив.
+
+Имя архива соответствует музыкальному жанру (10 папок).
+
+Метрики:
+
+Accuracy, Precision, Recall, F1
+
+https://www.kaggleusercontent.com/kf/174745680/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..xiQrkYRZYhw8OkVpQmVrwg.2J5V6bUUhJA0_3RBdeETIfH3y3MXTwBNGKU7X20cxNCHHz2B4X41a3qHQrtlSbQ19yjN0sAwK2XieoQzA73B-ces-7YHtTUsmNUMoDbSDGBkls0jqwEmfcTfIT5db8Y86eqlGRkat3SMNu0bEgk6DkDb9o4VCnfYpUYq2x11Sf9w4rx5zgjESn0VM4PoI_uhooRrFicoYK_fVm_tntZdu5stcYZsvSdrDYW8jxH7YGMI0Xnw3Z9eBKhbAG2_dQiiOjHYYwkKCK4xcyXatB654lIyM0AD4W5l7Em9mvLSh4rOzpzH0mBZCrQ6st6wVxHO7TGbZJ5bmjjPfK0GMPpqVa89_H_a14pzVNlVEeoLMQjkSlN0MjSq-hrkEOkLyemXy855T9o4Hjwadplk6MubKYWCsROEvqlX4a0z4kXjG8w8YV9kIYcpjjvJlx5-K1FqYoD-Z9GaBtRS94zlmL20_8EsWm8L8ZgvxJ0mxDWh3n9A0OZQ_2UNPaEOJCam4egrSZF7XGwm2qmzNDju5KdpuNSVFoYjUhCZIaZhKQ2r5BFql4f4C0rRQYIdzlbv2dM17E4MkcF0qNGf92HORS9wajC84q6WPWHZUVCtTUpgR9flPUytVZa6fLjSVENR3Iqkbq-ko8G5itS7K9mgdiv51A.maLzTBtnJrBJMpYDkum7ig/__results___files/__results___12_0.png
